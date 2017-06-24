@@ -97,6 +97,7 @@ public class ChatServlet extends HttpServlet {
             out.println("</form>");
             out.println("</body>");
             out.println("</html>");
+            }
         }
     }
 
